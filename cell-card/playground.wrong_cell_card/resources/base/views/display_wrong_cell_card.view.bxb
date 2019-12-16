@@ -5,7 +5,7 @@ result-view{
 		layout{
 			section{
 				content {
-					cell-area {
+					cell-card {
 						slot1 {
 							image {
 								url("[#{value(this.random_pic.url)}]")
@@ -17,8 +17,7 @@ result-view{
 								primary ("[#{value(this.text)}]")
 							}
 						}
-					}
-					
+					}			
 				}
 			}
 		}
@@ -26,35 +25,3 @@ result-view{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// cell-area {
-// 	slot1 {
-// 		image {
-// 			url("[#{value(this.random_pic.url)}]")
-// 			shape (Square)
-// 		}
-// 	}
-// 	slot2 {
-// 		content {
-// 			primary ("[#{value(this.text)}]")
-// 		}
-// 	}
-// }
