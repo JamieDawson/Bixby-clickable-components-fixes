@@ -1,6 +1,6 @@
 # Incorrect use of Cell-Card
 
-In this example, we are displaying a cell-card that has no `on-click` functionality. This makes the information that appears on the screen to look like a button, but it actually isn't. 
+In this example, we are displaying a cell-card that has no `on-click` functionality. This gives the cell-card the illusion that it's a button when it's not.
 
 
 #### Example in the simulator
