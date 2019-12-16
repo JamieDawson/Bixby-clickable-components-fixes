@@ -14,4 +14,5 @@ Just convert your `cell-card` into a `cell-area` to prevent your Capsule from fa
 
 ![right code](https://user-images.githubusercontent.com/16840579/70951457-4c527e00-2018-11ea-9969-cc0564a14762.png)
 
-![sim right](https://user-images.githubusercontent.com/16840579/70951458-4c527e00-2018-11ea-91a9-474d14814ad8.png)
+![done](https://user-images.githubusercontent.com/16840579/70952539-60e44580-201b-11ea-9e2d-a01b2b273b0c.png)
+
