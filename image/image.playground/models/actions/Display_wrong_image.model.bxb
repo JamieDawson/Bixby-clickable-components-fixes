@@ -1,0 +1,6 @@
+action (Display_wrong_image) {
+  description (Display an example of an image being used incorrectly.)
+  type (Search)
+
+  output (All)
+}
