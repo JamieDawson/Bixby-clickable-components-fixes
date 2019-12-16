@@ -1,0 +1,52 @@
+result-view{
+	match: All (this)
+	
+	render{
+		layout{
+			section{
+				content {
+					cell-card {
+						slot1 {
+							image {
+								url("[#{value(this.random_pic.url)}]")
+								shape (Square)
+							}
+						}
+						slot2 {
+							content {
+								primary ("[#{value(this.text)}]")
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// cell-area {
+// 	slot1 {
+// 		image {
+// 			url("[#{value(this.random_pic.url)}]")
+// 			shape (Square)
+// 		}
+// 	}
+// 	slot2 {
+// 		content {
+// 			primary ("[#{value(this.text)}]")
+// 		}
+// 	}
+// }

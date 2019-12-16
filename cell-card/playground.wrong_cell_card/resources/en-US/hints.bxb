@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    hint (with wrong cell card, show image)
+    hint (with wrong cell card, display image)
+    hint (with wrong cell card, give image)
+  }
+}

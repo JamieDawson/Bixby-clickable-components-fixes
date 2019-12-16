@@ -1,0 +1,6 @@
+action (Display_wrong_cell_card) {
+  description (Display an example of a cell-card being used incorrectly.)
+  type (Search)
+
+  output (All)
+}
