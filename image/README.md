@@ -7,10 +7,10 @@ In this repo we have two examples of the wrong way and correct way to use an ima
 
 To solve this, all we do is use the example code in [right-image](https://github.com/JamieDawson/Bixby-clickable-components-fixes/tree/master/image/right_image) repo and add `lightbox-enabled(false)` to your code.
 
-##### Example of incorrect code:
+### Example of incorrect code:
 ![image_wrong_code](https://user-images.githubusercontent.com/16840579/70949196-0db9c500-2012-11ea-9a0c-986abd09e973.png)
 
 
-##### Solution:
+### Solution:
 ![image_right_code](https://user-images.githubusercontent.com/16840579/70949192-0c889800-2012-11ea-8d27-ed06af41f73d.png)
 
