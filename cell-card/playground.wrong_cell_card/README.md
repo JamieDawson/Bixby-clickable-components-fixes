@@ -1,6 +1,6 @@
 # Incorrect use of Cell-Card
 
-In this example, we are displaying a cell-card that has no `on-click` functionality. This makes the information that apperas on the screen to look like a button, but it actually isn't. 
+In this example, we are displaying a cell-card that has no `on-click` functionality. This makes the information that appears on the screen to look like a button, but it actually isn't. 
 
 
 #### Example in the simulator
@@ -10,7 +10,7 @@ In this example, we are displaying a cell-card that has no `on-click` functional
 
 
 #### Solution
-Just convert your `cell-card` into a `cell-area`. 
+Just convert your `cell-card` into a `cell-area` to prevent your Capsule from failing.
 
 ![right code](https://user-images.githubusercontent.com/16840579/70951457-4c527e00-2018-11ea-9969-cc0564a14762.png)
 
