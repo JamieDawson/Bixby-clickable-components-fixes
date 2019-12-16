@@ -5,7 +5,7 @@ result-view{
 		layout{
 			section{
 				content {
-					cell-card {
+					cell-area {
 						slot1 {
 							image {
 								url("[#{value(this.random_pic.url)}]")
@@ -18,11 +18,19 @@ result-view{
 							}
 						}
 					}
+					
 				}
 			}
 		}
 	}
 }
+
+
+
+
+
+
+
 
 
 

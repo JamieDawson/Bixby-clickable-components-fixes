@@ -1,6 +1,6 @@
 module.exports.function = function display_wrong_cell_card () {
 
-  var test = ["This image is clickable. It should not be."];
+  var test = ["This looks clickable, but it's not."];
 
   var img = ["images/example_pic.png"];
 
