@@ -1,0 +1,6 @@
+action (Display_right_image) {
+  description (Display an example of an image being used correctly.)
+  type (Search)
+
+  output (All)
+}

@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    hint (with right image, show image)
+    hint (with right image, display image)
+    hint (with right image, give image)
+  }
+}

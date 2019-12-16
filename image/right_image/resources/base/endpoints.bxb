@@ -1,0 +1,8 @@
+endpoints {
+	action-endpoints {
+		 action-endpoint (Display_right_image) {
+		  accepted-inputs ()
+		   local-endpoint (display_right_image.js)
+		 }	
+	}
+}
