@@ -1,6 +1,7 @@
 # Image Component
 
-The image is clickable but goes nowhere when clicked.
+The image is clickable but goes nowhere when clicked. To solve this, just add `lightbox-enabled(false)` to your image.
+
 ![image_wrong](https://user-images.githubusercontent.com/16840579/70947998-59b73a80-200f-11ea-8df2-ae8fb34af3ab.png)
 
 ##### Example of incorrect code:
