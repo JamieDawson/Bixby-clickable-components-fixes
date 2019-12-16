@@ -4,9 +4,9 @@ In this repo we have two examples of the wrong way and correct way to use an ima
 
 
 ##### Example of incorrect code:
-
-![image_wrong_code](https://user-images.githubusercontent.com/16840579/70947999-59b73a80-200f-11ea-810e-f17e5c7d51a1.png)
+![image_wrong_code](https://user-images.githubusercontent.com/16840579/70949196-0db9c500-2012-11ea-9a0c-986abd09e973.png)
 
 
 ##### Solution:
-![image_right_code](https://user-images.githubusercontent.com/16840579/70947997-59b73a80-200f-11ea-8292-1267ca5cb5e6.png)
+![image_right_code](https://user-images.githubusercontent.com/16840579/70949192-0c889800-2012-11ea-8d27-ed06af41f73d.png)
+
