@@ -6,6 +6,7 @@ In this example, we are displaying a cell-card that has no `on-click` functional
 #### Example in the simulator
 ![cell-card-sim-wrong](https://user-images.githubusercontent.com/16840579/70951456-4c527e00-2018-11ea-83f6-3c7afdd774d2.png)
 
+#### Example of code in the view.
 ![cell-card-sim-right](https://user-images.githubusercontent.com/16840579/70951455-4c527e00-2018-11ea-9a22-03e9fc9faa44.png)
 
 
